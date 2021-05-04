@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/A-Simple-ToDo-App/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/A-Simple-ToDo-App/static/js/main.04f687c3.chunk.js",
+    "main.js.map": "/A-Simple-ToDo-App/static/js/main.04f687c3.chunk.js.map",
+    "runtime-main.js": "/A-Simple-ToDo-App/static/js/runtime-main.d27dc440.js",
+    "runtime-main.js.map": "/A-Simple-ToDo-App/static/js/runtime-main.d27dc440.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/A-Simple-ToDo-App/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4f62b7f2.chunk.js": "/A-Simple-ToDo-App/static/js/2.4f62b7f2.chunk.js",
+    "static/js/2.4f62b7f2.chunk.js.map": "/A-Simple-ToDo-App/static/js/2.4f62b7f2.chunk.js.map",
+    "static/js/3.3be40bf1.chunk.js": "/A-Simple-ToDo-App/static/js/3.3be40bf1.chunk.js",
+    "static/js/3.3be40bf1.chunk.js.map": "/A-Simple-ToDo-App/static/js/3.3be40bf1.chunk.js.map",
+    "index.html": "/A-Simple-ToDo-App/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/A-Simple-ToDo-App/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/A-Simple-ToDo-App/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.4f62b7f2.chunk.js.LICENSE.txt": "/A-Simple-ToDo-App/static/js/2.4f62b7f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27dc440.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4f62b7f2.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.04f687c3.chunk.js"
+  ]
+}
